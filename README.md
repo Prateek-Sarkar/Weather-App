@@ -1,16 +1,22 @@
-# weather_app
+#🌦️ Weather App
+A simple and clean Weather App built using Flutter that displays real-time weather data based on the user’s current location. This project was created to practice core Flutter concepts like HTTP requests, JSON parsing, state management, and navigation.
 
-A new Flutter project.
+##🚀 Features
+📍 Fetches current weather based on user’s geolocation
 
-## Getting Started
+🌐 Integrates with the OpenWeather API
 
-This project is a starting point for a Flutter application.
+🔁 Implements Flutter navigation (push/pop)
 
-A few resources to get you started if this is your first Flutter project:
+🧾 Parses JSON data dynamically
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📱 Responsive and intuitive UI using core Flutter widgets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##🛠️ Tech Stack
+Flutter
+Dart
+OpenWeather API
+Geolocator package
+
+#📸 Screenshots
+(Add your app screenshots here if available)
